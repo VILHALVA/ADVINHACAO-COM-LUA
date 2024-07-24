@@ -1,4 +1,4 @@
-# ADVINHACAO COM LUA
+# ADVINHACAO EM LUA
 👨‍💻ESSE É PEQUENO JOGO QUE RODA NO CONSOLE DA IDE.
 
 <img src="FOTO.png" align="center" width="500"> <br>
